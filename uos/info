@@ -1,0 +1,17 @@
+{
+    "appid": "cn.wildfirechat.pcclient",
+    "name": "野火IM",
+    "version": "0.0.1",
+    "arch": ["arm64"],
+    "permissions": {
+        "autostart": false,
+        "notification": false,
+        "trayicon": false,
+        "clipboard": false,
+        "account": false,
+        "bluetooth": false,
+        "camera": false,
+        "audio_record": false,
+        "installed_apps": false
+    }
+}

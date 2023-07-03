@@ -1,5 +1,5 @@
 #! /bin/sh
-desktopPath=/opt/野火IM/entries/applications/cn.wildfire.chat.desktop
+desktopPath=/opt/cn.wildfirechat.pcclient/files/entries/applications/cn.wildfirechat.pcclient.desktop
 rootDesktop=/root/Desktop
 if [ -d $rootDesktop ]; then
   cp $desktopPath $rootDesktop
@@ -11,10 +11,10 @@ for u in $users; do
   cndir=/home/$u/桌面
   if [ -d $dir ]; then
     cp $desktopPath $dir
-    chmod 777 $dir/cn.wildfire.chat.desktop
+    chmod 777 $dir/cn.wildfirechat.pcclient.desktop
   fi
   if [ -d $cndir ]; then
     cp $desktopPath $cndir
-    chmod 777 $cndir/cn.wildfire.chat.desktop
+    chmod 777 $cndir/cn.wildfirechat.pcclient.desktop
   fi
 done

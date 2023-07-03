@@ -1,0 +1,16 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=WildFireChat
+Name[zh_CN]=野火IM
+Comment=Wildfire Chat PC Client
+Comment[zh_CN]=野火IM PC客户端
+Exec=/opt/apps/cn.wildfirechat.pcclient/files/cn.wildfirechat.pcclient --no-sandbox %U
+GenericName=WildFireChat
+GenericName[zh_CN]=野火IM
+MimeType=application/wf-pc-chat;
+Icon=/opt/apps/cn.wildfirechat.pcclient/files/resources/extraResources/icons/128x128.png
+Keywords=chat;im;call;message;voip;
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Chat;
