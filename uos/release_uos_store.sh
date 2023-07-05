@@ -64,6 +64,7 @@ mkdir -p hicolor/24x24/apps/
 mkdir -p hicolor/32x32/apps/
 mkdir -p hicolor/48x48/apps/
 mkdir -p hicolor/64x64/apps/
+mkdir -p hicolor/96x96/apps/
 mkdir -p hicolor/128x128/apps/
 mkdir -p hicolor/256x256/apps/
 mkdir -p hicolor/512x512/apps/
