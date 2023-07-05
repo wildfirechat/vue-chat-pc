@@ -65,6 +65,7 @@ cp -af ../../../../../../build/icons/24x24.png hicolor/24x24/apps/cn.wildfirecha
 cp -af ../../../../../../build/icons/32x32.png hicolor/32x32/apps/cn.wildfirechat.pcclient.png
 cp -af ../../../../../../build/icons/48x48.png hicolor/48x48/apps/cn.wildfirechat.pcclient.png
 cp -af ../../../../../../build/icons/64x64.png hicolor/64x64/apps/cn.wildfirechat.pcclient.png
+cp -af ../../../../../../build/icons/96x96.png hicolor/64x64/apps/cn.wildfirechat.pcclient.png
 cp -af ../../../../../../build/icons/128x128.png hicolor/128x128/apps/cn.wildfirechat.pcclient.png
 cp -af ../../../../../../build/icons/256x256.png hicolor/256x256/apps/cn.wildfirechat.pcclient.png
 cp -af ../../../../../../build/icons/512x512.png hicolor/512x512/apps/cn.wildfirechat.pcclient.png
